@@ -1,0 +1,15 @@
+/* 1. What are the first 5 characters of the tag that styles part of a paragraph or heading? */
+p {
+    font-size:  italic;
+}
+/* 3. Rewrite the following CSS code so it can be used for a span. */
+.special {
+   font: italic; 
+}
+/* 4. What are the first 12 characters of an opening span tag that's assigned a class? */
+span.class {
+    font-style: italic;
+}
+.empasized {
+    font-size: italic;
+}
